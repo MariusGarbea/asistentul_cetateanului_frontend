@@ -21,7 +21,7 @@
     "jwt-decode": "^2.1.0",
     "react": "^15.3.2",
     "react-bootstrap": "^0.30.5",
-    "react-dom": "^15.3.2",
+    "react-dom": "^16.0.1",
     "react-router": "^2.8.1",
     "snyk": "^1.19.1"
   },
