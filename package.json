@@ -19,9 +19,9 @@
     "classnames": "^2.2.5",
     "dotenv": "^2.0.0",
     "jwt-decode": "^2.1.0",
-    "react": "^15.3.2",
+    "react": "^16.5.0",
     "react-bootstrap": "^0.30.5",
-    "react-dom": "^15.3.2",
+    "react-dom": "^16.5.0",
     "react-router": "^2.8.1",
     "snyk": "^1.19.1"
   },
