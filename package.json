@@ -13,7 +13,7 @@
     "redux-thunk": "2.1.0"
   },
   "dependencies": {
-    "auth0-lock": "^10.4.0",
+    "auth0-lock": "^11.30.5",
     "belle": "^2.0.9",
     "bootstrap": "^3.3.7",
     "classnames": "^2.2.5",
